@@ -1,7 +1,9 @@
 
-## I'm Esaú Mascarenhas [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esau-mascarenhas/)](https://www.linkedin.com/in/esau-mascarenhas/)
+## I'm Esaú Mascarenhas
 - Software Engineer
 - Graduate in Computer Engineering at State University of Feira de Santana 🎓
+- Some interesting projects
+  - [Fogbed](https://larsid.github.io/fogbed/)
 
 ## My Skills 🚀
   #### Back-end
